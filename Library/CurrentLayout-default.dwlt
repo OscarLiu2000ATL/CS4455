@@ -17,6 +17,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1581
     y: -49
 =======
@@ -40,12 +41,17 @@ MonoBehaviour:
   m_Title: Hierarchy
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 =======
+=======
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
     x: 1440
     y: -150
     width: 1920
     height: 1200
   m_ShowMode: 4
   m_Title: Hierarchy
+<<<<<<< HEAD
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
+=======
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
   m_RootView: {fileID: 8}
   m_MinSize: {x: 875, y: 300}
@@ -72,7 +78,11 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     height: 271
+=======
+    height: 444
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 =======
     height: 444
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
@@ -116,7 +126,11 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 98
+=======
+  controlID: 62
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 =======
   controlID: 62
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
@@ -153,7 +167,11 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 165
+=======
+  controlID: 18
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 =======
   controlID: 18
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
@@ -184,7 +202,11 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     height: 1012
+=======
+    height: 1150
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 =======
     height: 1150
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
@@ -357,7 +379,11 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 166
+=======
+  controlID: 19
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 =======
   controlID: 19
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
@@ -394,7 +420,11 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 167
+=======
+  controlID: 20
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 =======
   controlID: 20
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
@@ -645,11 +675,14 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     scrollPos: {x: 0, y: 60.53894}
     m_SelectedIDs: fa4e0000
     m_LastClickedID: 20218
     m_ExpandedIDs: 00000000364e0000384e00003a4e0000d44e0000fc4e0000
 =======
+=======
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 =======
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 =======
@@ -660,6 +693,9 @@ MonoBehaviour:
     m_ExpandedIDs: 000000004c4e00004e4e0000504e0000184f0000
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
+=======
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 =======
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
@@ -695,7 +731,11 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000364e0000384e00003a4e0000
+=======
+    m_ExpandedIDs: 000000004c4e00004e4e0000504e0000
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 =======
     m_ExpandedIDs: 000000004c4e00004e4e0000504e0000
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
@@ -830,9 +870,15 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_SelectedIDs: c0470000
       m_LastClickedID: 18368
       m_ExpandedIDs: 32fbffff
+=======
+      m_SelectedIDs: b6470000
+      m_LastClickedID: 18358
+      m_ExpandedIDs: f4efffff3cfbffff70450000b647000000480000
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 =======
       m_SelectedIDs: b6470000
       m_LastClickedID: 18358
@@ -911,9 +957,15 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 8.941423, y: 1.4007957, z: -1.1380576}
     speed: 2
     m_Value: {x: 8.941423, y: 1.4007957, z: -1.138058}
+=======
+    m_Target: {x: 33.653587, y: 0.76000017, z: 7.509}
+    speed: 2
+    m_Value: {x: 33.653587, y: 0.76000017, z: 7.509}
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 =======
     m_Target: {x: 33.653587, y: 0.76000017, z: 7.509}
     speed: 2
@@ -977,6 +1029,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.07851881, y: -0.73635626, z: 0.08679511, w: -0.666412}
 <<<<<<< HEAD
+<<<<<<< HEAD
     speed: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -986,11 +1039,15 @@ MonoBehaviour:
     speed: 2
     m_Value: 2.0157955
 =======
+=======
+    speed: 2
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
     m_Value: {x: -0.07851786, y: -0.7363474, z: 0.08679406, w: -0.66640395}
   m_Size:
     m_Target: 3.0962634
     speed: 2
     m_Value: 3.0962634
+<<<<<<< HEAD
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 =======
 =======
@@ -1002,6 +1059,8 @@ MonoBehaviour:
     speed: 2
     m_Value: 3.0962634
 <<<<<<< HEAD
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
+=======
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 =======
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
