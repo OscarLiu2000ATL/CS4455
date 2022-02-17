@@ -337,6 +337,7 @@
 /define:USE_SEARCH_ENGINE_API
 "Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/About/Scripts/Readme.cs"
 "Assets/CollectKey.cs"
+"Assets/CollectKey2.cs"
 "Assets/KeyCollector.cs"
 "Assets/Scripts/AppEvents/AudioEventManager.cs"
 "Assets/Scripts/AppEvents/BallCollisionReporter.cs"
