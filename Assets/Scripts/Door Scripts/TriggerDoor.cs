@@ -6,6 +6,7 @@ public class TriggerDoor : MonoBehaviour {
 
     [SerializeField] private Animator myAnimationController;
     private GameObject player;
+    KeyCollector kc;
 
     void Start() {
 
@@ -16,16 +17,17 @@ public class TriggerDoor : MonoBehaviour {
     private void OnTriggerEnter(Collider c) {
 
         //I'm not sure if I should comment this out but for now, it seems to be working
-        //if (c.attachedRigidbody != null) {
-            KeyCollector kc = c.attachedRigidbody.gameObject.GetComponent<KeyCollector>();
-        //}
+        if (c.attachedRigidbody != null) {
+            kc = c.attachedRigidbody.gameObject.GetComponent<KeyCollector>();
+        }
 
         if (c.CompareTag("Player")) {
 
-            if (kc.hasKey) {
-                myAnimationController.SetBool("PlayerEntered", true);
-            }
-            
+            if (kc != null) {
+                if (kc.hasKey) {
+                    myAnimationController.SetBool("PlayerEntered", true);
+                }
+            } 
         }
         
 
