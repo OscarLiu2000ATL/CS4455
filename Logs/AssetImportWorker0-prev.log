@@ -24,11 +24,19 @@ Logs/AssetImportWorker0.log
 -srvPort
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 53994
 Successfully changed project path to: /Users/alicewang/Documents/Spring 2022/CS 4455- Video Game Design/Mindwarp/CS4455
 /Users/alicewang/Documents/Spring 2022/CS 4455- Video Game Design/Mindwarp/CS4455
 Using Asset Import Pipeline V2.
 Refreshing native plugins compatible for Editor in 76.33 ms, found 2 plugins.
+=======
+52987
+Successfully changed project path to: /Users/alicewang/Documents/Spring 2022/CS 4455- Video Game Design/Mindwarp/CS4455
+/Users/alicewang/Documents/Spring 2022/CS 4455- Video Game Design/Mindwarp/CS4455
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 65.48 ms, found 2 plugins.
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 =======
 52987
 Successfully changed project path to: /Users/alicewang/Documents/Spring 2022/CS 4455- Video Game Design/Mindwarp/CS4455
@@ -50,6 +58,7 @@ Initialize engine version: 2020.3.25f1 (9b9180224418)
 GfxDevice: creating device client; threaded=0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 2022-02-16 21:54:48.166 Unity[15473:716595] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 645 (low power)
 2022-02-16 21:54:48.166 Unity[15473:716595] Metal devices available: 1
 2022-02-16 21:54:48.166 Unity[15473:716595] 0: Intel(R) Iris(TM) Plus Graphics 645 (low power)
@@ -57,11 +66,16 @@ GfxDevice: creating device client; threaded=0
 =======
 =======
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
+=======
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 2022-02-16 20:27:49.098 Unity[12735:599403] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 645 (low power)
 2022-02-16 20:27:49.098 Unity[12735:599403] Metal devices available: 1
 2022-02-16 20:27:49.098 Unity[12735:599403] 0: Intel(R) Iris(TM) Plus Graphics 645 (low power)
 2022-02-16 20:27:49.099 Unity[12735:599403] Using device Intel(R) Iris(TM) Plus Graphics 645 (low power)
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
+=======
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 =======
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
@@ -72,7 +86,11 @@ Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.25f1/Unity.app/Contents/Mo
 Mono config path = '/Applications/Unity/Hub/Editor/2020.3.25f1/Unity.app/Contents/MonoBleedingEdge/etc'
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56473
+=======
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56735
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 =======
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56735
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
@@ -83,6 +101,7 @@ Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /Applications/Unity/Hub/Editor/2020.3.25f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: /Applications/Unity/Hub/Editor/2020.3.25f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 Registered in 0.001721 seconds.
@@ -108,6 +127,8 @@ Domain Reload Profiling:
 		BeginReloadAssembly (41ms)
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 =======
+=======
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 Registered in 0.003002 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
@@ -118,12 +139,16 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling:
 	ReloadAssembly (717ms)
 		BeginReloadAssembly (41ms)
+<<<<<<< HEAD
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
+=======
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 		EndReloadAssembly (606ms)
@@ -143,6 +168,8 @@ Domain Reload Profiling:
 =======
 =======
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
+=======
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 		EndReloadAssembly (587ms)
 			LoadAssemblies (43ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
@@ -158,6 +185,9 @@ Domain Reload Profiling:
 				ProcessInitializeOnLoadAttributes (119ms)
 				ProcessInitializeOnLoadMethodAttributes (35ms)
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
+=======
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 =======
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
@@ -169,7 +199,11 @@ Platform modules already initialized, skipping
 Registering precompiled user dll's ...
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Registered in 0.008179 seconds.
+=======
+Registered in 0.009056 seconds.
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 =======
 Registered in 0.009056 seconds.
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
@@ -182,6 +216,7 @@ Native extension for OSXStandalone target not found
 Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 - Completed reload, in  1.400 seconds
@@ -223,16 +258,37 @@ Domain Reload Profiling:
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 =======
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
+=======
+- Completed reload, in  1.344 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1345ms)
+		BeginReloadAssembly (165ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (25ms)
+		EndReloadAssembly (1112ms)
+			LoadAssemblies (116ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (431ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (69ms)
+			SetupLoadedEditorAssemblies (369ms)
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (6ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 				BeforeProcessingInitializeOnLoad (69ms)
 				ProcessInitializeOnLoadAttributes (293ms)
 				ProcessInitializeOnLoadMethodAttributes (20ms)
 =======
+=======
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 =======
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 				BeforeProcessingInitializeOnLoad (75ms)
@@ -246,9 +302,15 @@ Domain Reload Profiling:
 Platform modules already initialized, skipping
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Validating Project structure ... 0.014648 seconds.
 Shader import version has changed; will reimport all shaders...
 Upgrading shader files ...0.012462 seconds.
+=======
+Validating Project structure ... 0.008104 seconds.
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0.011107 seconds.
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 =======
 Validating Project structure ... 0.008104 seconds.
 Shader import version has changed; will reimport all shaders...
@@ -272,6 +334,7 @@ Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
 Initializing Unity extensions:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 2022-02-16 21:54:52.574 Unity[15473:716595] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x6000020b2ca0 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
 2022-02-16 21:54:52.579 Unity[15473:716595] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600002083410 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
 ========================================================================
@@ -282,6 +345,12 @@ Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
 2022-02-16 20:27:53.418 Unity[12735:599403] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x6000021eea70 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
 ========================================================================
 Worker process is ready to serve import requests
+=======
+2022-02-16 20:27:53.413 Unity[12735:599403] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x6000021c7330 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2022-02-16 20:27:53.418 Unity[12735:599403] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x6000021eea70 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+========================================================================
+Worker process is ready to serve import requests
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 =======
 2022-02-16 20:27:53.413 Unity[12735:599403] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x6000021c7330 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
 2022-02-16 20:27:53.418 Unity[12735:599403] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x6000021eea70 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
@@ -355,6 +424,9 @@ Domain Reload Profiling:
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.81 ms, found 2 plugins.
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
+=======
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 =======
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
@@ -370,6 +442,9 @@ Total: 4.297169 ms (FindLiveObjects: 0.220667 ms CreateObjectMapping: 0.123958 m
 Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2806.
 Total: 5.631615 ms (FindLiveObjects: 0.466110 ms CreateObjectMapping: 0.290308 ms MarkObjects: 4.724718 ms  DeleteObjects: 0.148884 ms)
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
+=======
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 =======
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
@@ -387,12 +462,15 @@ AssetImportParameters requested are different than current active one (requested
 ========================================================================
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Received Import Request.
   path: Assets/01_AssetStore/DoorPackFree/Meshes/Door001/V2
   artifactKey: Guid(efef82fd4a4ee134cb2609bd47625bf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/01_AssetStore/DoorPackFree/Meshes/Door001/V2 using Guid(efef82fd4a4ee134cb2609bd47625bf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4287bac255c052c2f3cb45b48f361ade') in 0.004824 seconds 
   Import took 0.008746 seconds .
 =======
+=======
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 =======
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 Received Prepare
@@ -442,6 +520,9 @@ System memory in use after: 208.4 MB.
 Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2819.
 Total: 3.529927 ms (FindLiveObjects: 0.246586 ms CreateObjectMapping: 0.118058 ms MarkObjects: 3.044489 ms  DeleteObjects: 0.119906 ms)
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
+=======
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 =======
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
@@ -504,6 +585,9 @@ System memory in use after: 208.6 MB.
 Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2832.
 Total: 3.397868 ms (FindLiveObjects: 0.225492 ms CreateObjectMapping: 0.116006 ms MarkObjects: 2.979608 ms  DeleteObjects: 0.075904 ms)
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
+=======
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 =======
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
@@ -523,7 +607,11 @@ Received Prepare
 Registering precompiled user dll's ...
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Registered in 0.008196 seconds.
+=======
+Registered in 0.009664 seconds.
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 =======
 Registered in 0.009664 seconds.
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
@@ -535,6 +623,7 @@ Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 2022-02-16 21:56:09.768 Unity[15473:716595] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x6000020ae370 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
@@ -559,10 +648,19 @@ Domain Reload Profiling:
 	ReloadAssembly (1551ms)
 		BeginReloadAssembly (216ms)
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
+=======
+2022-02-16 20:51:43.492 Unity[12735:599403] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x6000021aee60 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  1.549 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1551ms)
+		BeginReloadAssembly (216ms)
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (11ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 			CreateAndSetChildDomain (56ms)
@@ -584,11 +682,20 @@ Domain Reload Profiling:
 			LoadAssemblies (135ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
+=======
+			CreateAndSetChildDomain (119ms)
+		EndReloadAssembly (1255ms)
+			LoadAssemblies (135ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 			SetupTypeCache (467ms)
 			ReleaseScriptCaches (2ms)
 			RebuildScriptCaches (64ms)
 			SetupLoadedEditorAssemblies (414ms)
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
+=======
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 =======
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
@@ -597,6 +704,7 @@ Domain Reload Profiling:
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
 				BeforeProcessingInitializeOnLoad (123ms)
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 				ProcessInitializeOnLoadAttributes (256ms)
@@ -624,6 +732,17 @@ Total: 3.858697 ms (FindLiveObjects: 0.275729 ms CreateObjectMapping: 0.131737 m
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
+=======
+				ProcessInitializeOnLoadAttributes (266ms)
+				ProcessInitializeOnLoadMethodAttributes (16ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (17ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 =======
 				ProcessInitializeOnLoadAttributes (266ms)
 				ProcessInitializeOnLoadMethodAttributes (16ms)
@@ -932,6 +1051,7 @@ Received Import Request.
 Start importing Assets/01_AssetStore/DoorPackFree/Meshes/Door001/V7/Aferar_13 - Default_AlbedoTransparency.png using Guid(5a6ce0321a333e445b92d1c0508bf246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eec4943dceacb6c15a1a62b8add8347a') in 0.013808 seconds 
   Import took 0.017055 seconds .
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ========================================================================
 Received Import Request.
@@ -956,6 +1076,311 @@ Start importing Assets/01_AssetStore/DoorPackFree/Meshes/Door001/V5/Aferar_13 - 
 ========================================================================
 Received Import Request.
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
+  Time since last request: 0.000296 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Doors_Windows/Meshes/Neo_DoubleDoor_01_snaps001.asset
+  artifactKey: Guid(ede3571e32f58b1429591e1e12f534ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Doors_Windows/Meshes/Neo_DoubleDoor_01_snaps001.asset using Guid(ede3571e32f58b1429591e1e12f534ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f115aeba316372ff349deca747bef44') in 0.011817 seconds 
+  Import took 0.016878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Doors_Windows/Neo_Door_01_snaps001.prefab
+  artifactKey: Guid(548b55d3e2f945942be6ac7612199877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Doors_Windows/Neo_Door_01_snaps001.prefab using Guid(548b55d3e2f945942be6ac7612199877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12f44c5fd1d17e1abadbe4afaaf2c4c2') in 0.011379 seconds 
+  Import took 0.015340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Doors_Windows/Classic_DoubleDoor_01_snaps001.prefab
+  artifactKey: Guid(d82bc42a44b50814b814b25caf68fa8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Doors_Windows/Classic_DoubleDoor_01_snaps001.prefab using Guid(d82bc42a44b50814b814b25caf68fa8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ddb9bbf3288e1145c7ff1e48d3d61fe') in 0.014080 seconds 
+  Import took 0.017605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Sound/218460__thomasjaunism__wood-block-hit.wav
+  artifactKey: Guid(7d75b6132f9b7425abdb6c9043f888dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound/218460__thomasjaunism__wood-block-hit.wav using Guid(7d75b6132f9b7425abdb6c9043f888dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ad2c6b78469728ab4569e76e71128e4') in 0.009914 seconds 
+  Import took 0.014197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/01_AssetStore/DoorPackFree/Meshes/Door001/V1/Aferar_13 - Default_AlbedoTransparency.png
+  artifactKey: Guid(ad1524073e0de5641bbe2930971f427b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/01_AssetStore/DoorPackFree/Meshes/Door001/V1/Aferar_13 - Default_AlbedoTransparency.png using Guid(ad1524073e0de5641bbe2930971f427b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '833f3227dac34278348cc4d55b19adf1') in 0.012414 seconds 
+  Import took 0.015937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/01_AssetStore/DoorPackFree/Meshes/Video intercom/Textures/V2/Aferar_01 - Default_AlbedoTransparency.png
+  artifactKey: Guid(c2eace534e1967048bf8fdc65389e7d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/01_AssetStore/DoorPackFree/Meshes/Video intercom/Textures/V2/Aferar_01 - Default_AlbedoTransparency.png using Guid(c2eace534e1967048bf8fdc65389e7d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4638a0c7fa744d75ae0b84ee71067f4c') in 0.011856 seconds 
+  Import took 0.015251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Walls/Meshes/Classic_WallDoubleDoors_01_snaps001.asset
+  artifactKey: Guid(c71cc61f903f0c44ebb7c458fb25f066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Walls/Meshes/Classic_WallDoubleDoors_01_snaps001.asset using Guid(c71cc61f903f0c44ebb7c458fb25f066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16e3791f475008850e6feb313d821a97') in 0.011629 seconds 
+  Import took 0.015217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Walls/Neo_WallDoubleDoorFrame_snaps001.prefab
+  artifactKey: Guid(da357e76d65d042449b88c33e35ff8fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Walls/Neo_WallDoubleDoorFrame_snaps001.prefab using Guid(da357e76d65d042449b88c33e35ff8fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7416d2e591ebd9ed0c38c9db4dd965c') in 0.011759 seconds 
+  Import took 0.015111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/01_AssetStore/DoorPackFree/Meshes/Door001/V5/Aferar_13 - Default_SpecularSmoothness.png
+  artifactKey: Guid(80c1f5cf297fd0c4e847cc853c2e7706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/01_AssetStore/DoorPackFree/Meshes/Door001/V5/Aferar_13 - Default_SpecularSmoothness.png using Guid(80c1f5cf297fd0c4e847cc853c2e7706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52b4ea3946c9afe38d631eb0615ec38b') in 0.015675 seconds 
+  Import took 0.019375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Props/Meshes/AirDuct_01_Corner_snaps001.asset
+  artifactKey: Guid(fc0b5d78437d37148ae72498507177d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Props/Meshes/AirDuct_01_Corner_snaps001.asset using Guid(fc0b5d78437d37148ae72498507177d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d4d50bf2be9f3cbe1c2843d5e4191b5') in 0.010346 seconds 
+  Import took 0.014106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Walls/Meshes/Neo_WallDoorFrame_01_snaps001.asset
+  artifactKey: Guid(76ae14d7cb014b047a191a2db8613242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Walls/Meshes/Neo_WallDoorFrame_01_snaps001.asset using Guid(76ae14d7cb014b047a191a2db8613242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5692f223520ab80ba8673a4ee1989d8e') in 0.011089 seconds 
+  Import took 0.014949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Walls/Meshes/Classic_WallDoorFrame_01_snaps001.asset
+  artifactKey: Guid(565084c6683627f49b758e030151154f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Walls/Meshes/Classic_WallDoorFrame_01_snaps001.asset using Guid(565084c6683627f49b758e030151154f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '008cbac856ce2e7c562e42e08d2e927c') in 0.014253 seconds 
+  Import took 0.017915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/01_AssetStore/DoorPackFree/Meshes/Door001/V6/Aferar_13 - Default_AlbedoTransparency.png
+  artifactKey: Guid(8cef63a95b416dc41bb52c34876cef8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/01_AssetStore/DoorPackFree/Meshes/Door001/V6/Aferar_13 - Default_AlbedoTransparency.png using Guid(8cef63a95b416dc41bb52c34876cef8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56567d087086f827444612701a63f27f') in 0.012506 seconds 
+  Import took 0.015891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Doors_Windows/Meshes/Classic_Door_01_snaps001.asset
+  artifactKey: Guid(35f1de9d25a6b314a9fe72a80dd93be6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Doors_Windows/Meshes/Classic_Door_01_snaps001.asset using Guid(35f1de9d25a6b314a9fe72a80dd93be6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a0f0fa8bae6c02ec3072c8e9988c103') in 0.011081 seconds 
+  Import took 0.014877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Doors_Windows/Meshes/Classic_DoubleDoor_01_snaps001.asset
+  artifactKey: Guid(6df3f66b80ffdb1438f5a4715501c357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Doors_Windows/Meshes/Classic_DoubleDoor_01_snaps001.asset using Guid(6df3f66b80ffdb1438f5a4715501c357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33a392bcf0ffaa75e57c57958dba1cc9') in 0.011551 seconds 
+  Import took 0.015365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Walls/Meshes/Neo_WallDoor_01_snaps001.asset
+  artifactKey: Guid(f02194ae408d54241b8390f6ea76da82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Walls/Meshes/Neo_WallDoor_01_snaps001.asset using Guid(f02194ae408d54241b8390f6ea76da82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c10e647f76a76b506e18a81b42411727') in 0.014939 seconds 
+  Import took 0.018931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/01_AssetStore/DoorPackFree/Meshes/Video intercom/Textures/V1/Aferar_01 - Default_SpecularSmoothness.png
+  artifactKey: Guid(6a642236548117b4ebe108d79a2e96af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/01_AssetStore/DoorPackFree/Meshes/Video intercom/Textures/V1/Aferar_01 - Default_SpecularSmoothness.png using Guid(6a642236548117b4ebe108d79a2e96af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dad074ff09c7a52cfa92ed35a796be99') in 0.015287 seconds 
+  Import took 0.018638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/01_AssetStore/DoorPackFree/Meshes/Door001/V7/Aferar_13 - Default_Normal.png
+  artifactKey: Guid(030c4c619d224ab438e38b06e20193c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/01_AssetStore/DoorPackFree/Meshes/Door001/V7/Aferar_13 - Default_Normal.png using Guid(030c4c619d224ab438e38b06e20193c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e439845336df3f5465bc31679806a968') in 0.014179 seconds 
+  Import took 0.018300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Sound/245646__unfa__cartoon-pop-distorted.wav
+  artifactKey: Guid(effceab16a520440cb52bd4c426e5145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound/245646__unfa__cartoon-pop-distorted.wav using Guid(effceab16a520440cb52bd4c426e5145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd261660441f9b3685510f491277551ad') in 0.011695 seconds 
+  Import took 0.016034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/01_AssetStore/DoorPackFree/Meshes/Video intercom/Textures/V1/Aferar_01 - Default_Normal.png
+  artifactKey: Guid(ad2bbb2667991d949a922f78a57aecde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/01_AssetStore/DoorPackFree/Meshes/Video intercom/Textures/V1/Aferar_01 - Default_Normal.png using Guid(ad2bbb2667991d949a922f78a57aecde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5c922dbb8025a95ddb7b451977775e1') in 0.014092 seconds 
+  Import took 0.017894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Walls/Meshes/Classic_WallDoorFrame_01_Collider.asset
+  artifactKey: Guid(a6b0f648a3b838244a6bb0a13bbed428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Walls/Meshes/Classic_WallDoorFrame_01_Collider.asset using Guid(a6b0f648a3b838244a6bb0a13bbed428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd684085d185c6b99b9edfe767393f838') in 0.010285 seconds 
+  Import took 0.014167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/01_AssetStore/DoorPackFree/Meshes/Door001/V2/Aferar_13 - Default_SpecularSmoothness.png
+  artifactKey: Guid(a703548941a513a4b9d01a9b3640fd4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/01_AssetStore/DoorPackFree/Meshes/Door001/V2/Aferar_13 - Default_SpecularSmoothness.png using Guid(a703548941a513a4b9d01a9b3640fd4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9e538f2c2606b0a5e7ecbbe009343c9') in 0.013271 seconds 
+  Import took 0.017126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Props/Meshes/AirDuct_01_snaps001.asset
+  artifactKey: Guid(dc132711e5cf0d8489ca0c2edc965e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Props/Meshes/AirDuct_01_snaps001.asset using Guid(dc132711e5cf0d8489ca0c2edc965e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '144caf4f73578d56f4e7ff04432dcc04') in 0.009347 seconds 
+  Import took 0.012937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Walls/Classic_WallDoubleDoorFrame_01_snaps001.prefab
+  artifactKey: Guid(db44937cbec05d74b81e4013f67615ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Walls/Classic_WallDoubleDoorFrame_01_snaps001.prefab using Guid(db44937cbec05d74b81e4013f67615ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '685f56240ee1451a886df331b937218c') in 0.013344 seconds 
+  Import took 0.016962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Walls/Neo_WallDoorFrame_01_snaps001.prefab
+  artifactKey: Guid(e8f5a146fe0fe524f9bd393d3573106c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Walls/Neo_WallDoorFrame_01_snaps001.prefab using Guid(e8f5a146fe0fe524f9bd393d3573106c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3c991c9f6d6bc6076fa01cb014db4d6') in 0.012440 seconds 
+  Import took 0.016322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/01_AssetStore/DoorPackFree/Meshes/Video intercom/Textures/V1/Aferar_01 - Default_AlbedoTransparency.png
+  artifactKey: Guid(42c96235f6565cf44abc098d6d3baf75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/01_AssetStore/DoorPackFree/Meshes/Video intercom/Textures/V1/Aferar_01 - Default_AlbedoTransparency.png using Guid(42c96235f6565cf44abc098d6d3baf75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54d92c6f487cb2732f23473e26772bbd') in 0.012120 seconds 
+  Import took 0.015654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Doors_Windows/Classic_Door_01_snaps001.prefab
+  artifactKey: Guid(bddc1c2bd8f610b4a9602b0663b4823e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Doors_Windows/Classic_Door_01_snaps001.prefab using Guid(bddc1c2bd8f610b4a9602b0663b4823e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78fdad5584886a01aa25accaa3f74747') in 0.012632 seconds 
+  Import took 0.016631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Walls/Meshes/Neo_WallDoubleDoorFrame_snaps001.asset
+  artifactKey: Guid(3221b3876f157a841bede9e59b4a3241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Walls/Meshes/Neo_WallDoubleDoorFrame_snaps001.asset using Guid(3221b3876f157a841bede9e59b4a3241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a3a7ffef145aca96f51eb901d55f0aa') in 0.012225 seconds 
+  Import took 0.016425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/01_AssetStore/DoorPackFree/Meshes/Door001/V1/Aferar_13 - Default_Normal.png
+  artifactKey: Guid(bd2b1ecd87a65b34b8896ba687902cff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/01_AssetStore/DoorPackFree/Meshes/Door001/V1/Aferar_13 - Default_Normal.png using Guid(bd2b1ecd87a65b34b8896ba687902cff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '864b7db61c6ed2f9e73f27c3a2311196') in 0.014333 seconds 
+  Import took 0.018399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Doors_Windows/Meshes/Neo_Door_01_snaps001.asset
+  artifactKey: Guid(01625494a6b2d354a9a6678c03bfbdd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Doors_Windows/Meshes/Neo_Door_01_snaps001.asset using Guid(01625494a6b2d354a9a6678c03bfbdd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '491f275d6932bf5bf252bb6074ca4fa7') in 0.010902 seconds 
+  Import took 0.014813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Walls/Meshes/Classic_WallDoor_01_snaps001.asset
+  artifactKey: Guid(c9ff1c63b1d77b047981b5faeb29222f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Walls/Meshes/Classic_WallDoor_01_snaps001.asset using Guid(c9ff1c63b1d77b047981b5faeb29222f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '746b1c3490b5a10074494c0aa372ca54') in 0.011718 seconds 
+  Import took 0.015843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Walls/Meshes/Classic_WallDoubleDoorFrame_01_Collider.asset
+  artifactKey: Guid(80b620fa4051efe43837b8f21340b071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Walls/Meshes/Classic_WallDoubleDoorFrame_01_Collider.asset using Guid(80b620fa4051efe43837b8f21340b071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd8e710f2b9560e887b4ac201aa72feb') in 0.013216 seconds 
+  Import took 0.017632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/01_AssetStore/DoorPackFree/Meshes/Door001/V1/Aferar_13 - Default_AO.png
+  artifactKey: Guid(c1eb8cf5ed7dc6c4eaefcfc343ad8755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/01_AssetStore/DoorPackFree/Meshes/Door001/V1/Aferar_13 - Default_AO.png using Guid(c1eb8cf5ed7dc6c4eaefcfc343ad8755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e850eaa70a5c78d836f60298f366a340') in 0.009917 seconds 
+  Import took 0.013997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Walls/Classic_WallDoubleDoors_01_snaps001.prefab
+  artifactKey: Guid(3cd7bc5de3ff05f49ab503add0f0f2d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Walls/Classic_WallDoubleDoors_01_snaps001.prefab using Guid(3cd7bc5de3ff05f49ab503add0f0f2d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c765d78acbeb3e0e8bf459a5d6ec606') in 0.013534 seconds 
+  Import took 0.016802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Walls/Meshes/Classic_WallDoubleDoorFrame_01_snaps001.asset
+  artifactKey: Guid(21bae7557bef4c44e9c2e1be3729e28a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Walls/Meshes/Classic_WallDoubleDoorFrame_01_snaps001.asset using Guid(21bae7557bef4c44e9c2e1be3729e28a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f87a54e62fecf94be8b4f964ee624754') in 0.011106 seconds 
+  Import took 0.014944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Walls/Meshes/Neo_WallDoorFrame_01_Collider.asset
+  artifactKey: Guid(ed5424c359dd6c7469e3197d09b54bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Walls/Meshes/Neo_WallDoorFrame_01_Collider.asset using Guid(ed5424c359dd6c7469e3197d09b54bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37813ea9e1bb8ca9a15f34a4d143d5c0') in 0.011042 seconds 
+  Import took 0.014606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/01_AssetStore/DoorPackFree/Meshes/Video intercom/Textures/V2/Aferar_01 - Default_AO.png
+  artifactKey: Guid(188ef17cbc7cb864c8f826ab6b04129f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/01_AssetStore/DoorPackFree/Meshes/Video intercom/Textures/V2/Aferar_01 - Default_AO.png using Guid(188ef17cbc7cb864c8f826ab6b04129f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e2f8ce3986255f3275c97ebc0b9cbbc') in 0.009660 seconds 
+  Import took 0.013058 seconds .
+=======
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/01_AssetStore/DoorPackFree/Meshes/Door001/V5/Aferar_13 - Default_AlbedoTransparency.png
+  artifactKey: Guid(8b8d88670764c144cb3ad65162664a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/01_AssetStore/DoorPackFree/Meshes/Door001/V5/Aferar_13 - Default_AlbedoTransparency.png using Guid(8b8d88670764c144cb3ad65162664a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56e4568585b192718c397b9c8f4ec273') in 0.015890 seconds 
+  Import took 0.020633 seconds .
+
+========================================================================
+Received Import Request.
   Time since last request: 0.000296 seconds.
   path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Doors_Windows/Meshes/Neo_DoubleDoor_01_snaps001.asset
   artifactKey: Guid(ede3571e32f58b1429591e1e12f534ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -1297,6 +1722,7 @@ System memory in use after: 230.6 MB.
 
 Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2906.
 Total: 3.796531 ms (FindLiveObjects: 0.270643 ms CreateObjectMapping: 0.153895 ms MarkObjects: 3.252205 ms  DeleteObjects: 0.118871 ms)
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -1309,6 +1735,109 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+<<<<<<< HEAD
+Registered in 0.010448 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+2022-02-16 21:02:24.398 Unity[12735:599403] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x6000021a3d40 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  1.691 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1694ms)
+		BeginReloadAssembly (252ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (16ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (136ms)
+		EndReloadAssembly (1352ms)
+			LoadAssemblies (145ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (479ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (68ms)
+			SetupLoadedEditorAssemblies (457ms)
+=======
+Registered in 0.003719 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+2022-02-16 21:04:10.353 Unity[12735:599403] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x6000021b1570 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  1.374 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1375ms)
+		BeginReloadAssembly (131ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (58ms)
+		EndReloadAssembly (1172ms)
+			LoadAssemblies (85ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (432ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (65ms)
+			SetupLoadedEditorAssemblies (398ms)
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+<<<<<<< HEAD
+				BeforeProcessingInitializeOnLoad (136ms)
+				ProcessInitializeOnLoadAttributes (291ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
+=======
+				BeforeProcessingInitializeOnLoad (128ms)
+				ProcessInitializeOnLoadAttributes (248ms)
+				ProcessInitializeOnLoadMethodAttributes (14ms)
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (18ms)
+Platform modules already initialized, skipping
+<<<<<<< HEAD
+Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2263 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 230.4 MB.
+System memory in use after: 230.6 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2906.
+Total: 3.796531 ms (FindLiveObjects: 0.270643 ms CreateObjectMapping: 0.153895 ms MarkObjects: 3.252205 ms  DeleteObjects: 0.118871 ms)
+=======
+Refreshing native plugins compatible for Editor in 0.64 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2263 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 230.8 MB.
+System memory in use after: 230.9 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2919.
+Total: 3.543307 ms (FindLiveObjects: 0.208146 ms CreateObjectMapping: 0.099621 ms MarkObjects: 3.141714 ms  DeleteObjects: 0.093003 ms)
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+<<<<<<< HEAD
 Received Prepare
 Registering precompiled user dll's ...
 Registered in 0.003719 seconds.
@@ -1367,6 +1896,8 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
+=======
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 Received Import Request.
   Time since last request: 744.009548 seconds.
   path: ProjectSettings/TagManager.asset
@@ -1654,6 +2185,9 @@ System memory in use after: 232.0 MB.
 Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2984.
 Total: 4.224549 ms (FindLiveObjects: 0.307306 ms CreateObjectMapping: 0.126595 ms MarkObjects: 3.702069 ms  DeleteObjects: 0.087043 ms)
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
+=======
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
 =======
 >>>>>>> parent of 16a0bcf (Material changed for door (updated to see it properly))
