@@ -12,6 +12,7 @@ public class TriggerDoorTwo : MonoBehaviour
 
         player = GameObject.FindWithTag("Player");
         myAnimationController = GetComponent<Animator>();
+        myAnimationController.SetBool("PlayerEntered", false);
     }
 
     private void OnTriggerEnter(Collider c) {
